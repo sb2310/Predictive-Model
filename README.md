@@ -1,2 +1,2 @@
 # Predictive-Model
-Predictive Modelling - Data Science based project
+Predictive Modelling - It's Internshala Trainings's Data Science project
